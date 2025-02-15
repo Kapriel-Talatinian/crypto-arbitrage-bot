@@ -8,7 +8,7 @@ Bot de détection d'opportunités d'arbitrage cryptographique entre Binance, Coi
 ## Features ✨
 
 - 📈 Surveillance multi-exchange en temps réel
-- 🔄 Support de +20 cryptomonnaies (configurable)
+- 🔄 Support de +20 cryptomonnaies (configurable manuellement)
 - 📤 Alertes Telegram automatisées
 - 📉 Calcul intelligent de volatilité
 - 🛡 Gestion robuste des erreurs
@@ -17,7 +17,7 @@ Bot de détection d'opportunités d'arbitrage cryptographique entre Binance, Coi
 
 ```bash
 # Cloner le dépôt
-git clone https://github.com/<votre-username>/crypto-arbitrage-bot.git
+git clone https://github.com/Topge/crypto-arbitrage-bot.git
 cd crypto-arbitrage-bot
 
 # Installer les dépendances
