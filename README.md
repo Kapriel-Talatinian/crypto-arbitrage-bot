@@ -22,3 +22,8 @@ cd crypto-arbitrage-bot
 
 # Installer les dépendances
 pip install -r requirements.txt
+
+# Lancer le bot 
+python main.py 
+
+# (Optionnel) changements du mapping dans crypto_mapping.csv 
