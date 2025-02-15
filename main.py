@@ -6,8 +6,8 @@ import numpy as np
 import logging
 import os
 
-TELEGRAM_TOKEN = "7937013066:AAFJhRNacf3NiiK4rV8Hvu2xVD__qdiucLw" # token bot telegram
-CHAT_ID = "2366905100" # id chat telegram
+TELEGRAM_TOKEN = "TOKEN" # token bot telegram
+CHAT_ID = "CHATID" # id chat telegram
 MAPPING_FILE = "crypto_mapping.csv"
 MIN_SPREAD = 1.5  # Spread minimum en %
 MIN_VOLUME = 10000  # Volume minimum en USD
